@@ -1,0 +1,2 @@
+# Mispracticas
+practicas de IA
